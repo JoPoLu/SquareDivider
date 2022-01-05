@@ -1,0 +1,2 @@
+# SquareDivider
+DividesImagesIntoSquares
